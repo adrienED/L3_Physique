@@ -1,0 +1,11 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+using namespace std;
+	
+int main(void){
+cout<<"BONJOUR"<<endl;
+return 0;
+}
+
+

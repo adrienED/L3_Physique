@@ -1,0 +1,6 @@
+set style data lines
+set label "i=0" at 1.5,0.4
+p 'beta.dat'
+set term postscript
+set output "fig1.ps"
+replot
